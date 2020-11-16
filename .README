@@ -1,0 +1,8 @@
+There's a foulder where you can find 3D model Objects to teste on /Objects
+After running the program you can select option '1' to load a model.
+  .I advise you to start with the small Models first, hand.obj, lamterna.obj, etc.
+  .to select the object, you need to write Objects/example.obj.
+
+This project was the final project of 'Programação Orientada a Objetos', 
+  .after you 'upload' a model, the program will return faces, edges, and vertices
+  .Them you can do other functions. 
